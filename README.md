@@ -17,3 +17,7 @@ About Me Page:
 
 
 <img width="1407" alt="Screenshot 2023-05-11 at 9 29 54 AM" src="https://github.com/TonyNguyy/Flask-Blog/assets/102321536/8658e83d-f7b9-4082-81ab-db56ee03c53d">
+
+
+Contact Page:
+<img width="1420" alt="Screenshot 2023-05-11 at 9 45 35 AM" src="https://github.com/TonyNguyy/Flask-Blog/assets/102321536/951b6f6e-e8c3-43a9-8336-750c1af5bef3">
