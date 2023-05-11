@@ -10,7 +10,7 @@ day= now.day
 year = now.year
 month = now.month
 today = f"{day},{month},{year}"
-author = "Tony Nguyen"
+author = "Tony"
 
 #Email
 MY_EMAIL = "email@email.com"
