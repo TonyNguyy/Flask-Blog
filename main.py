@@ -13,8 +13,8 @@ today = f"{day},{month},{year}"
 author = "Tony Nguyen"
 
 #Email
-MY_EMAIL = "tonynguyy@gmail.com"
-PASSWORD = "mavwvyhaakzqtfkd"
+MY_EMAIL = "email@email.com
+PASSWORD = "dwada"
 
 
 #Flask
